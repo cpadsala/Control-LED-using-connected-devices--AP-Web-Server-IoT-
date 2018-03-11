@@ -17,6 +17,7 @@ Break Away Male Headers- Right Angle
 Reconfigured to a 6-pin Male Header
 
 Intro:
+
 Create a WIFI hotspot with the Sparkfun ESP8266 using the source code for the AP Web Server App on learn.sparkfun.com.
 
 Can change the LEDs using your web browser of your connected device and check the status of analog and digital pins.
