@@ -1,12 +1,19 @@
 # Control-LED-using-connected-devices--AP-Web-Server-IoT-
 
 Parts Needed:
+
 Sparkfun ESP8266 Thing
+
 Sparkfun FTDI Basic (serial converter)
+
 Micro USB
-USBB
+
+USB-B
+
 2x 10-pin Stackable Headers
+
 Break Away Male Headers- Right Angle
+
 Reconfigured to a 6-pin Male Header
 
 Intro:
